@@ -7,7 +7,7 @@
   
  # To run the project:
  1.Install the following packages:
- '''
+ ```
     . Tensorflow
     . Keras
     . Opencv
@@ -15,7 +15,7 @@
     . numpy
     . time
     . h5py
-  '''  
+  ```  
   2. Store the required number of images needed to detect helmet either in google drive or in local memory.
   3. Zip themm into a single file and allot a particular location for it.
   4. Train them using CNN either in google colab or in  separate python file after unzipping the file.

@@ -3,7 +3,7 @@
  To monitor whether the two-wheeler riders wears helmet while driving and to fine a particular amount once they are seen violating the rule by riding without helmet.
  
  # INTRODUCTION
- This work tries to differntiate the helmet users with the non-helmet riders using OPENCV library which achieves  70.89% mAP with the input size 512×512.in addition,we have also tried to capture the number plate of the violator and to allot them with some fine amount.
+ This work tries to differntiate the helmet users with the non-helmet riders using OPENCV library which achieves  70.89% mAP with the input size 600x550.In addition,we have also tried to capture the number plate of the violator and to allot them with some fine amount.
   
  # To run the project:
  1.Install the following packages:

@@ -24,11 +24,11 @@
   
   
  # project members:
-  -Joerahul -----------https://www.linkedin.com/in/joe-rahul-486a32166
-  -Gokul---------------
-  -Kalai Kumar---------https://www.linkedin.com/in/kalai-kumar-a9095a173/   
-  -Jaaswanth-----------https://www.linkedin.com/in/kalai-kumar-a9095a173/   
-  -Karthikeyan---------https://www.linkedin.com/in/karthik-nataraj-245213180/
+  Joerahul -----------https://www.linkedin.com/in/joe-rahul-486a32166
+  Gokul---------------
+  Kalai Kumar---------https://www.linkedin.com/in/kalai-kumar-a9095a173/   
+  Jaaswanth-----------https://www.linkedin.com/in/kalai-kumar-a9095a173/   
+  Karthikeyan---------https://www.linkedin.com/in/karthik-nataraj-245213180/
   
   Video reference------https://youtu.be/KngsPD-A-pU
   

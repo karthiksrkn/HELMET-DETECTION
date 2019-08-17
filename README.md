@@ -24,7 +24,7 @@
   
   
  # project members:
-  Joerahul -----------https://www.linkedin.com/in/joe-rahul-486a32166
+  Joerahul -----------https://www.linkedin.com/in/joe-rahul-486a32166/
   Gokul---------------
   Kalai Kumar---------https://www.linkedin.com/in/kalai-kumar-a9095a173/   
   Jaaswanth-----------https://www.linkedin.com/in/kalai-kumar-a9095a173/   

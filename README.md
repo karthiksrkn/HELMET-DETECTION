@@ -21,3 +21,6 @@
   4. Train them using CNN either in google colab or in  separate python file after unzipping the file.
   5. Load them in HDF type file which has been imported as .h5 file.
   6. Run the file.
+
+
+  For verification-----https://youtu.be/KngsPD-A-pU

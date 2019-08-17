@@ -34,5 +34,6 @@
   Video reference------https://youtu.be/KngsPD-A-pU
   
   ## Guidance-- 
-  Purusothaman---------https://bitsathy.ac.in/clubs/ai/
-  (AI lab incharge,BIT) 
+  Purusothaman(AI lab incharge,BIT).
+  --https://bitsathy.ac.in/clubs/ai/
+   

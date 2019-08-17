@@ -23,7 +23,7 @@
   6. Run the file.
   
   
- # project members:
+ # Project members:
  ```
    Joerahul ----------- https://www.linkedin.com/in/joe-rahul-486a32166/
    Gokul--------------- https://www.linkedin.com/in/gokul
@@ -33,6 +33,6 @@
 ```  
   Video reference------https://youtu.be/KngsPD-A-pU
   
-  Guidance-- 
+  ## Guidance-- 
   Purusothaman---------https://bitsathy.ac.in/clubs/ai/
-   (AI lab incharge,BIT) 
+  (AI lab incharge,BIT) 

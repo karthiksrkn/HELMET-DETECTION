@@ -24,14 +24,14 @@
   
   
  # project members:
-  Joerahul -----------https://www.linkedin.com/in/joe-rahul-486a32166/
-  Gokul---------------
-  Kalai Kumar---------https://www.linkedin.com/in/kalai-kumar-a9095a173/   
-  Jaaswanth-----------https://www.linkedin.com/in/jaaswanth-m-r-121b7016b/   
-  Karthikeyan---------https://www.linkedin.com/in/karthik-nataraj-245213180/
+  *Joerahul -----------https://www.linkedin.com/in/joe-rahul-486a32166/
+  *Gokul---------------
+  *Kalai Kumar---------https://www.linkedin.com/in/kalai-kumar-a9095a173/   
+  *Jaaswanth-----------https://www.linkedin.com/in/jaaswanth-m-r-121b7016b/   
+  *Karthikeyan---------https://www.linkedin.com/in/karthik-nataraj-245213180/
   
   Video reference------https://youtu.be/KngsPD-A-pU
   
   Guidance-- 
   Purusothaman---------https://bitsathy.ac.in/clubs/ai/
-  (AI lab incharge,BIT) 
+   (AI lab incharge,BIT) 
